@@ -13,6 +13,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
 
+<br />
 ### Tools & Languages:
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
